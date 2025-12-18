@@ -11,4 +11,5 @@ The final code can be found in 3 different locations, depending on your formatti
 - FinalProject.ipynb
   - WIP Jupyter Notebook (has a lot of code that went unused in the final product), due to me testing out different methods over time
 
+The final trained model can be found as adaboost_model5.pkl, althought the code files include the methods for training the model.
 
